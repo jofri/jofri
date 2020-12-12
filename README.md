@@ -15,13 +15,13 @@ In my spare time I try to indulge my right-brain by cooking, coming up with wack
 ### My favourite tools
 
 <code><img height="40" alt="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" alt="nodeJs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="40" alt="nodeJs" src="https://img.icons8.com/color/452/nodejs.png"></code>
 <code><img height="40" alt="expressJs" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKmtAv2G_LoVvYzVphgkaW6W1yj3z0tR7igw&usqp=CAU"></code>
-<code><img height="40" alt="MongoDB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="40" alt="MongoDB" src="https://banner2.cleanpng.com/20180702/bgt/kisspng-mongodb-database-nosql-postgresql-mongo-5b39f9e3445fa6.5652746415305261792801.jpg"></code>
 <code><img height="40" alt="PostgreSQL" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"></code>
 <code><img height="40" alt="AngularJs" src="https://angular.io/assets/images/logos/angular/angular.png"></code>
 <code><img height="40" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="40" alt="Redux" src="https://assets.stickpng.com/images/5848309bcef1014c0b5e4a9a.png"></code>
+<code><img height="40" alt="Redux" src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png"></code>
 <code><img height="40" alt="SocketIo" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg"></code>
 <code><img height="40" alt="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="40" alt="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
