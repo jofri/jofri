@@ -2,7 +2,7 @@
 
 Full-Stack Software Engineer, experienced with all things JavaScript. Expert in Node, Express, MongoDB, React and Socket.io. I’m also an avid communicator with a background in marketing strategy.
 
-In my spare time I try to indulge my right-brain by cooking, coming up with wacky tech projects and work out (if I get the chance). I’m originally from Sweden but don’t worry, I come pre-assembled.
+In my spare time I try to indulge my right-brain by cooking, listening to lofi beats and coming up with wacky tech projects. I’m originally from Sweden but don’t worry, I come pre-assembled.
 
 
 ### What I've been up to
