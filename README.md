@@ -11,7 +11,7 @@ In my spare time I try to indulge my right-brain by cooking, listening to lofi b
 - 📰 I'm finishing up a [news-aggrigator ](https://fairpointnews.com) that allows users to read current news and track the political bias of what they're reading
 - 🥕 I'm working on a React context && observables [syntactic sugar](https://www.npmjs.com/package/carrot-js)
 - 👃 I invented a device that lets users smell in [virtual reality](https://johanfriedner.com/scentience.html)
-- 🎮 I built BlockWorld, a toys-to-life sandbox game that lets players build virtual worlds using real-life [building blocks](https://johanfriedner.com/blockworld.html)
+- 🎮 I built a toys-to-life [sandbox game](https://johanfriedner.com/blockworld.html) that lets players build virtual worlds using real-life building blocks
 
 ### My favourite tools
 
