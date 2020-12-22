@@ -1,6 +1,6 @@
 ## I'm Johan - full-stack developer, Swedish expat in London, open for new opportunities 👨‍💻
 
-Full-Stack Software Engineer, experienced with all things JavaScript. Expert in Node, Express, MongoDB, React and Socket.io. I’m also an avid communicator with a background in marketing strategy.
+Full-Stack Software Engineer, experienced with all things JavaScript and a background in marketing strategy. Expert in Node, Express, MongoDB, React and Socket.io.
 
 In my spare time I try to indulge my right-brain by cooking, listening to lofi beats and coming up with wacky tech projects. I’m originally from Sweden but don’t worry, I come pre-assembled.
 
