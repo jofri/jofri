@@ -8,8 +8,8 @@ In my spare time I try to indulge my right-brain by cooking, listening to lofi b
 ### What I've been up to
 
 - 📰 I'm working on a [news-aggregator](https://github.com/jofri/fairpoint) that allows users to read current news and track the political bias of what they're reading
-- 🔴 I’m developing a [broadcast app](https://github.com/jofri/drivel-tv) that allows users to browse and create live broadcasts with their favourite video content
-- 🥕 I'm working on a React context && observables [syntactic sugar](https://www.npmjs.com/package/carrot-js)
+- 🔴 I developed a [broadcast app](https://github.com/jofri/drivel-tv) that allows users to browse and create live broadcasts with their favourite video content
+- 🥕 I'm creating a React context && observables [syntactic sugar](https://www.npmjs.com/package/carrot-js)
 - 👃 I invented a device that lets users smell in [virtual reality](https://johanfriedner.com/scentience.html)
 - 🎮 I built a toys-to-life [sandbox game](https://johanfriedner.com/blockworld.html) that lets players build virtual worlds using real-life building blocks
 
