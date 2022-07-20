@@ -18,6 +18,7 @@ In my spare time I try to indulge my right-brain by cooking, listening to Lo-Fi 
 <code><img height="40" alt="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" alt="nodeJs" src="https://destatic.blob.core.windows.net/images/nodejs-logo.png"></code>
 <code><img height="40" alt="expressJs" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKmtAv2G_LoVvYzVphgkaW6W1yj3z0tR7igw&usqp=CAU"></code>
+<code><img height="40" alt="NextJs" src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png"></code>
 <code><img height="40" alt="MongoDB" src="https://banner2.cleanpng.com/20180702/bgt/kisspng-mongodb-database-nosql-postgresql-mongo-5b39f9e3445fa6.5652746415305261792801.jpg"></code>
 <code><img height="40" alt="PostgreSQL" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"></code>
 <code><img height="40" alt="AngularJs" src="https://angular.io/assets/images/logos/angular/angular.png"></code>
