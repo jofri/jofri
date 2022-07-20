@@ -1,12 +1,12 @@
 ## I'm Johan - full-stack developer, Swedish expat in London, open for new opportunities 👨‍💻
 
-Full-Stack Software Engineer, experienced with all things JavaScript and a background in marketing strategy. Expert in Node, Express, MongoDB, React and Socket.io.
+Full-Stack Software Engineer, experienced with all things JavaScript and a background in marketing strategy. Expert in Node, Next.js, Express, MongoDB and React.
 
 In my spare time I try to indulge my right-brain by cooking, listening to Lo-Fi beats and coming up with wacky tech projects. I’m originally from Sweden but don’t worry, I come pre-assembled.
 
-
 ### What I've been up to
 
+- 💧 I'm the founder of [Weddingrainchecker.com](https://weddingrainchecker.com) - a platform that allows couples to find their perfect wedding date by analysing 10 years of historical weather data for any location in the world
 - 📰 I'm working on a [news-aggregator](https://github.com/jofri/fairpoint) that allows users to read current news and track the political bias of what they're reading
 - 🔴 I developed a [broadcast app](https://github.com/jofri/drivel-tv) that allows users to browse and create live broadcasts with their favourite video content
 - 🥕 I'm creating a React context && observables [syntactic sugar](https://www.npmjs.com/package/carrot-js)
@@ -27,4 +27,3 @@ In my spare time I try to indulge my right-brain by cooking, listening to Lo-Fi 
 <code><img height="40" alt="Typescript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/200px-Typescript_logo_2020.svg.png"></code>
 <code><img height="40" alt="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="40" alt="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
