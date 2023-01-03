@@ -1,4 +1,4 @@
-## I'm Johan - full-stack developer, Swedish expat in London, open for new opportunities 👨‍💻
+## I'm Johan - full-stack developer, Swedish expat now back in Stockholm, open for new opportunities 👨‍💻
 
 Full-Stack Software Engineer, experienced with all things JavaScript and a background in marketing strategy. Expert in Node, Next.js, Express, MongoDB and React.
 
@@ -6,7 +6,7 @@ In my spare time I try to indulge my right-brain by cooking, listening to Lo-Fi 
 
 ### What I've been up to
 
-- 💧 I'm the founder of [Weddingrainchecker.com](https://weddingrainchecker.com) - a platform that allows couples to find their perfect wedding date by analysing 10 years of historical weather data for any location in the world
+- 💧 I'm the founder of [Dropory.com](https://Dropory.com) - a platform that allows you to find your perfect rain-free event date by analysing 10 years of historical weather data for any location in the world
 - 📰 I'm working on a [news-aggregator](https://github.com/jofri/fairpoint) that allows users to read current news and track the political bias of what they're reading
 - 🔴 I developed a [broadcast app](https://github.com/jofri/drivel-tv) that allows users to browse and create live broadcasts with their favourite video content
 - 🥕 I'm creating a React context && observables [syntactic sugar](https://www.npmjs.com/package/carrot-js)
