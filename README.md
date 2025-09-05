@@ -2,7 +2,8 @@
 
 Frontend / Full-stack software engineer, experienced with all things JavaScript and a background in marketing strategy. Expert in Javascript, Node, Next.js, React and MongoDB.
 
-In my spare time I try to indulge my right-brain by cooking, music and coming up with wacky tech projects. I’m originally from Sweden but don’t worry, I come pre-assembled.
+In my spare time I try to indulge my right-brain by cooking, music and coming up with wacky tech projects. I have
+lived & worked in San Francisco, New York, Stockholm and London. I’m originally from Sweden but don’t worry, I come pre-assembled.
 
 ### What I've been up to
 
