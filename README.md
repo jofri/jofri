@@ -12,6 +12,7 @@ In my spare time I try to indulge my right-brain by cooking, music and coming up
 - 📰 I worked on a [news-aggregator](https://github.com/jofri/fairpoint) that allows users to read current news and track the political bias of what they're reading
 - 🔴 I developed a [broadcast app](https://github.com/jofri/drivel-tv) that allows users to browse and create live broadcasts with their favourite video content
 - 🥕 I created a React context && observables [syntactic sugar](https://www.npmjs.com/package/carrot-js)
+- 🐶 I'm creating a [mobile game](https://johanfriedner.com/bootales.html) about Boo, a floppy dog from my wife's children's book
 
 ### Some of my technologies
 
